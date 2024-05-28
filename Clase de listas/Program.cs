@@ -118,7 +118,6 @@ namespace fruta
             IFruta nuevaFruta = new FrutaPersonalizada(nombre, color);
             frutas.Add(nuevaFruta);
 
-
             Console.WriteLine("Fruta agregada con éxito.");
         }
 
